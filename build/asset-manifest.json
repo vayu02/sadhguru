@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/www.avadhutanandmaharaj.org/static/css/main.aacfc4fc.css",
+    "main.js": "/www.avadhutanandmaharaj.org/static/js/main.0e0a29ab.js",
+    "static/js/787.ec704a7a.chunk.js": "/www.avadhutanandmaharaj.org/static/js/787.ec704a7a.chunk.js",
+    "static/media/Logo.png": "/www.avadhutanandmaharaj.org/static/media/Logo.67bd7431be6d628309ba.png",
+    "static/media/background.png": "/www.avadhutanandmaharaj.org/static/media/background.20b2dc41e8a42f2395d0.png",
+    "static/media/swami.jpg": "/www.avadhutanandmaharaj.org/static/media/swami.80fd2ccbb9bcb7d9751f.jpg",
+    "index.html": "/www.avadhutanandmaharaj.org/index.html",
+    "main.aacfc4fc.css.map": "/www.avadhutanandmaharaj.org/static/css/main.aacfc4fc.css.map",
+    "main.0e0a29ab.js.map": "/www.avadhutanandmaharaj.org/static/js/main.0e0a29ab.js.map",
+    "787.ec704a7a.chunk.js.map": "/www.avadhutanandmaharaj.org/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aacfc4fc.css",
+    "static/js/main.0e0a29ab.js"
+  ]
+}
